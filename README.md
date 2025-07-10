@@ -91,3 +91,7 @@ github -> https://github.com/roger-fernandes-Dev
 ## 📄 Licença
 Este projeto está sob a licença MIT.
 Sinta-se livre para usar, estudar e modificar para fins educacionais.
+
+## 🖼️ Preview
+
+![Preview do projeto](./public/preview.png)
