@@ -94,4 +94,4 @@ Sinta-se livre para usar, estudar e modificar para fins educacionais.
 
 ## 🖼️ Preview
 
-![Preview do projeto](./public/preview.png)
+![Preview do projeto](./public/imagem-readme.png)
